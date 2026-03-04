@@ -1,0 +1,34 @@
+# === Published packages (private — excluded from public repo) ===
+beunec-asps/
+beunec-asps-react/
+
+# === OS ===
+.DS_Store
+Thumbs.db
+
+# === Node ===
+node_modules/
+dist/
+*.tgz
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+build/
+dist/
+.eggs/
+*.egg
+.venv/
+venv/
+
+# === IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === Env ===
+.env
+.env.local
