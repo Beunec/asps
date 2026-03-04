@@ -3,7 +3,7 @@
 ## Agentic-System-Prompt-as-a-Skill™ — Templates & Usage
 
 **Beunec Technologies, Inc.**  
-**Author:** Olu Akinnawo & Beunec R&D
+**Research & Development Lead:** Olu Akinnawo & Beunec R&D
 **Version:** 1.0.0
 
 # Python
@@ -24,7 +24,7 @@ npm install @beunec/asps
 6. [Heuristic Library Reference](#heuristic-library-reference)
 7. [Guardrail & Checkpoint Presets](#guardrail--checkpoint-presets)
 8. [Network Topology Patterns](#network-topology-patterns)
-9. [Integration with Mohulka Center](#integration-with-mohulka-center)
+9. [Integration with Beunec Internal App](#integration-with-beunec-internal-app)
 10. [FAQ](#faq)
 
 ---
@@ -370,9 +370,9 @@ Each library is an array of `DistilledHeuristic` objects — spread them into `d
 
 ---
 
-## Integration with Mohulka Center
+## Integration with Beunec Internal App
 
-The ASPS™ system integrates directly with the existing Mohulka Center AI stack:
+The ASPS™ system integrates directly with the existing Beunec Internal App AI stack:
 
 ```typescript
 // In an API route or server action:

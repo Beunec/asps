@@ -998,7 +998,7 @@ ASPS™ provides:
 
 Together, these three techniques eliminate the Toggle Tax, prevent prompt drift, ensure persona consistency, and produce versioned, auditable, deployable skill artifacts.
 
-The framework is implemented in TypeScript, ships with seven domain-specific templates, and integrates natively with the Mohulka Center AI stack.
+The framework is implemented in TypeScript, ships with seven domain-specific templates, and integrates natively with Beunec Internal App stack.
 
 **An LLM does not have skills. ASPS™ gives it the infrastructure to earn them.**
 
